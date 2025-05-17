@@ -28,4 +28,4 @@ RUN npm install --production --ignore-scripts
 # Expose no ports (stdio only)
 
 # Default command
-CMD ["node", "dist/index.js"]
+ENTRYPOINT ["node", "dist/index.js"]
