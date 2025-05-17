@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/upstash/context7#readme",
   "dependencies": {
+    "@chatmcp/sdk": "^1.0.6",
     "@modelcontextprotocol/sdk": "^1.8.0",
     "dotenv": "^16.5.0",
     "zod": "^3.24.2"
